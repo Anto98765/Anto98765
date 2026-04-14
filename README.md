@@ -5,7 +5,7 @@
 ---
 
 ## My Setup
-- **OS:** (https://skillicons.dev/icons?i=arch) Arch Linux
+- **OS:** ![Arch Linux](https://skillicons.dev/icons?i=arch)
 - **WM:** Hyprland
 - **Terminal:** Alacritty
 - **shell:** Fish
