@@ -4,6 +4,9 @@
 ![SkillIcons](https://skillicons.dev/icons?i=linux,cpp,neovim,css)
 --
 Iam using **ArchLinux** + **Hyprland** , DotFiles coming soon ....
+<img width="1366" height="768" alt="hyprland1" src="https://github.com/user-attachments/assets/25396f51-dff4-41f8-bd77-f1984cdf7b82" />
+<img width="1366" height="768" alt="hyprland2" src="https://github.com/user-attachments/assets/62883742-a991-426b-9c0c-0e65209a8796" />
+<img width="1366" height="768" alt="hyprland3" src="https://github.com/user-attachments/assets/f8913e33-dcdd-4827-a5db-b9c67b84aaaf" />
 
 <!--
 **Anto98765/Anto98765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
