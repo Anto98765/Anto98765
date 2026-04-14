@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Anto** -  IT student 💻 .
 
-![SkillIcons](https://skillicons.dev/icons?i=linux,cpp,neovim,css)
+![SkillIcons](https://skillicons.dev/icons?i=linux,cpp,neovim,html,css)
 --
 I use **ArchLinux** + **Hyprland** , DotFiles coming soon ....
 
