@@ -1,11 +1,11 @@
 # Hey, I'm Anto 👋
 
-🎓 First Year IT Student | 🔒 Cybersecurity
+🎓 IT Student | 🔒 Cybersecurity
 
 ---
 
 ## My Setup
-- **OS:** Arch Linux
+- **OS:** (https://skillicons.dev/icons?i=arch) Arch Linux
 - **WM:** Hyprland
 - **Terminal:** Alacritty
 - **shell:** Fish
