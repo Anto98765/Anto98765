@@ -1,7 +1,9 @@
 # Hey There! 👋
-**I'm Anto** - .
+**I'm Anto** -  IT student 💻 .
 
-[![SkillIcons](https://skillicons.dev/icons?i=linux,cpp,neovim,css)]
+![SkillIcons](https://skillicons.dev/icons?i=linux,cpp,neovim,css)
+--
+Iam using **ArchLinux** + **Hyprland** , DotFiles coming soon ....
 
 <!--
 **Anto98765/Anto98765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
