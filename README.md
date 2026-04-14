@@ -1,19 +1,19 @@
 # Hey, I'm Anto 👋
 
-🎓 First Year IT Student | 🐧 Linux Enthusiast | 🔒 Cybersecurity
+🎓 First Year IT Student | 🔒 Cybersecurity
 
 ---
 
 ## My Setup
 - **OS:** Arch Linux
 - **WM:** Hyprland
-- **Theme:** Catppuccin
-- **Terminal:** Kitty
+- **Terminal:** Alacritty
+- **shell:** Fish
 
 ## Skills
 - Linux System Administration
 - Hyprland ricing & customization
-- Cybersecurity basics
+- Cybersecurity basics (learning)
 - C++ (learning)
 
 ---
