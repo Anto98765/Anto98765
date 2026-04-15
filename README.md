@@ -7,7 +7,8 @@ I use **ArchLinux** + **Hyprland** , DotFiles coming soon ....
 
 
 
-<img width="1366" height="768" alt="hyprland1" src="https://github.com/user-attachments/assets/25396f51-dff4-41f8-bd77-f1984cdf7b82" />
+<img width="2732" height="1536" alt="hyprland1" src="https://github.com/user-attachments/assets/81244b20-6e3d-4fe4-af9f-06822a52dc9d" />
+
 
 <!--
 **Anto98765/Anto98765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
