@@ -3,7 +3,7 @@
 
 ![SkillIcons](https://skillicons.dev/icons?i=linux,cpp,neovim,html,css)
 --
-I use **ArchLinux** + **Hyprland** , DotFiles coming soon ....
+I use **Arch** btw 😎 , DotFiles coming soon ....
 
 
 
