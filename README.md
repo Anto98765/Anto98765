@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Anto** -  IT student 💻 .
+**I'm Anto** -  IT Engineering student 💻 .
 
 ![SkillIcons](https://skillicons.dev/icons?i=linux,cpp,neovim,html,css)
 --
