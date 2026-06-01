@@ -3,7 +3,7 @@
 
 ![SkillIcons](https://skillicons.dev/icons?i=linux,cpp,neovim,html,css)
 --
-I use **Arch** btw 😎 , [My Dotfiles](https://github.com/Anto98765/My-Hyprland-setup)
+I use **Arch** btw 😎 , [My Dotfiles](https://github.com/Anto98765/My-Hyprland-Rice)
 
 
 
